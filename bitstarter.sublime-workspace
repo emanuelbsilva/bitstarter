@@ -1,0 +1,1226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"admin",
+				"adminToken"
+			],
+			[
+				"fbt",
+				"fbTestUser1"
+			],
+			[
+				"valida",
+				"validateAndDelete"
+			],
+			[
+				"valid",
+				"validationFunctions"
+			],
+			[
+				"validate",
+				"validateAndDelete"
+			],
+			[
+				"tag",
+				"tagAuthFields"
+			],
+			[
+				"validat",
+				"validationQuery"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"deleted",
+				"deletedTag"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"tok",
+				"access_token"
+			],
+			[
+				"auth",
+				"authId"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"customer",
+				"customerOptions"
+			],
+			[
+				"d",
+				"● decodeURI(encURI)"
+			],
+			[
+				"custom",
+				"customerOptions"
+			],
+			[
+				"ta",
+				"tagAuthFields"
+			],
+			[
+				"a",
+				"auths"
+			],
+			[
+				"au",
+				"auth"
+			],
+			[
+				"aut",
+				"auths"
+			],
+			[
+				"ema",
+				"emailAuth"
+			],
+			[
+				"wi",
+				"winstonSpy"
+			],
+			[
+				"badjoin",
+				"badJoin1"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"del",
+				"deletedTag"
+			],
+			[
+				"val",
+				"validations"
+			],
+			[
+				"use",
+				"userData"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"pan",
+				"panID"
+			],
+			[
+				"re",
+				"returnValue"
+			],
+			[
+				"slo",
+				"slowresults"
+			],
+			[
+				"sum",
+				"sum512"
+			],
+			[
+				"slow",
+				"slow_media"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"test",
+				"testUser"
+			],
+			[
+				"publ",
+				"publicTagPropJson"
+			],
+			[
+				"pub",
+				"publicTagProp"
+			],
+			[
+				"pu",
+				"publicTagPropJson"
+			],
+			[
+				"public",
+				"publicTagProp"
+			],
+			[
+				"publi",
+				"publicTagProp"
+			],
+			[
+				"mii",
+				"minifiedURL"
+			],
+			[
+				"Mi",
+				"minifiedURL"
+			],
+			[
+				"bas",
+				"baseURL"
+			],
+			[
+				"get",
+				"getURL"
+			],
+			[
+				"ba",
+				"baseURL"
+			],
+			[
+				"sna",
+				"snapshotData"
+			],
+			[
+				"face",
+				"facebookTestUsers"
+			],
+			[
+				"cl",
+				"closeServer"
+			],
+			[
+				"base",
+				"baseURLToUse"
+			],
+			[
+				"confi",
+				"confirmation_email"
+			],
+			[
+				"soc",
+				"socketsRes"
+			],
+			[
+				"rom",
+				"roomToEmit"
+			],
+			[
+				"tes",
+				"testCustomer"
+			],
+			[
+				"to",
+				"toReturn"
+			],
+			[
+				"add",
+				"addView"
+			],
+			[
+				"sn",
+				"snapshot"
+			],
+			[
+				"snap",
+				"snapshot"
+			],
+			[
+				"sho",
+				"shortURL"
+			],
+			[
+				"Sho",
+				"shortURL"
+			],
+			[
+				"reu",
+				"returnedView"
+			],
+			[
+				"view",
+				"viewURL"
+			],
+			[
+				"coo",
+				"connection"
+			],
+			[
+				"in",
+				"invalidView"
+			],
+			[
+				"te",
+				"testView"
+			],
+			[
+				"save",
+				"saveAndHandleError"
+			],
+			[
+				"short",
+				"shortID"
+			],
+			[
+				"log",
+				"log_configs"
+			],
+			[
+				"inse",
+				"insertOrReplace"
+			],
+			[
+				"ca",
+				"callArgs"
+			],
+			[
+				"vi",
+				"visibleTags"
+			],
+			[
+				"INSER",
+				"insertOrReplace"
+			],
+			[
+				"inser",
+				"insertReplacing"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"mon",
+				"mongo_config"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"panot",
+				"panotag2"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"em",
+				"email_tag"
+			],
+			[
+				"adm",
+				"adminToken"
+			],
+			[
+				"twi",
+				"twitterRequest"
+			],
+			[
+				"dele",
+				"deletedTag"
+			],
+			[
+				"sh",
+				"shortID"
+			],
+			[
+				"all",
+				"allDone"
+			],
+			[
+				"al",
+				"allDone"
+			],
+			[
+				"lo",
+				"lodash"
+			],
+			[
+				"Pan",
+				"PanAppServer"
+			],
+			[
+				"panotag",
+				"panotag21"
+			],
+			[
+				"pano",
+				"panotag"
+			],
+			[
+				"call",
+				"callArgs"
+			],
+			[
+				"tw",
+				"twitterUserId"
+			],
+			[
+				"delete",
+				"deletetag"
+			],
+			[
+				"cu",
+				"customerID"
+			],
+			[
+				"Cal",
+				"callArgs"
+			],
+			[
+				"twit",
+				"twitter"
+			],
+			[
+				"conf",
+				"confirmed"
+			],
+			[
+				"cus",
+				"customerID"
+			],
+			[
+				"confirmation",
+				"confirmation_email"
+			],
+			[
+				"sen",
+				"sendEmailSpy"
+			],
+			[
+				"socke",
+				"socketclient1"
+			],
+			[
+				"custo",
+				"customerID"
+			],
+			[
+				"cust",
+				"customerID"
+			],
+			[
+				"new",
+				"newCustomer"
+			],
+			[
+				"pand",
+				"panID"
+			],
+			[
+				"cuso",
+				"customerID"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"pana",
+				"PanAppServer"
+			],
+			[
+				"confirm",
+				"ConfirmationEmail"
+			],
+			[
+				"ro",
+				"roomToEmit"
+			],
+			[
+				"sock",
+				"socketclient1"
+			],
+			[
+				"fb",
+				"fbTestUser1"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"fbT",
+				"fbTestUser2"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"pa",
+				"testPanID"
+			],
+			[
+				"shor",
+				"shortID"
+			],
+			[
+				"confirmtag",
+				"confirmTagReq"
+			],
+			[
+				"broa",
+				"broadcastClient"
+			],
+			[
+				"confir",
+				"confirmTag"
+			],
+			[
+				"email",
+				"emailTagData2"
+			],
+			[
+				"confirma",
+				"confirmationID"
+			],
+			[
+				"cal",
+				"callArgs"
+			],
+			[
+				"emai",
+				"emailTagData2"
+			],
+			[
+				"com",
+				"confirmation"
+			],
+			[
+				"fl",
+				"flattenAdmins"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"sc",
+				"success"
+			],
+			[
+				"co",
+				"common"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web.js",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"coff",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"cof",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"suble",
+				"SublimeREPL: Node"
+			],
+			[
+				"sumb nod",
+				"SublimeREPL: SBT for opened folder"
+			],
+			[
+				"rep",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl co",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"intallp",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime repl node",
+				"SublimeREPL: Node"
+			],
+			[
+				"javasc",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"sublimerepl cof",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Node"
+			],
+			[
+				"sublimerepl no",
+				"SublimeREPL: Node"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"subl",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"pagac",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/_template/package.json",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Auth.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/AdminModel.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/ViewerKrpano.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/ServerRequests.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/PanApp.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/Gruntfile.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/server.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/deploy.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/Broadcast.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/Integration.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/Facebook.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/PanApp-Facebook.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/experiments/tests.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/Twitter.coffee",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/CoffeeComplete Plus (Autocompletion)/CoffeeComplete Plus.sublime-settings",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/CoffeeComplete Plus (Autocompletion)/README.md",
+		"/Users/emanuelbsilva/Desktop/teste.js",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/panotag21.sublime-project",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/TwitterAuthentication.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/Tag.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/test/app/index.html",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/configuration.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/DefaultConfiguration.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/server-local.js",
+		"/Users/emanuelbsilva/Desktop/*REPL* [js].js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/components/ikrpano/src/ikrpano.coffee",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/CoffeeComplete Plus (Autocompletion)/CoffeeComplete Plus Custom Types.sublime-settings",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/PanApp.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/server.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/non_tests/common.coffee",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/Broadcast.coffee",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/NodeJS/repl.js",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/CoffeeScript/Default.sublime-commands",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/NodeJS/Default.sublime-commands",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/NodeJS/Main.sublime-menu",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/config/CoffeeScript/Main.sublime-menu",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/emanuelbsilva/Library/Application Support/Sublime Text 2/Packages/CoffeeComplete Plus (Autocompletion)/Default (OSX).sublime-keymap",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/PanApp-Twitter.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/confirmationEmail.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/ShortURL.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/View.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/docs/deploymentInstructions.markdown",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/config/local.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/PartitionTagView.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/PartitionSpotPoolKrpano.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Tag.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/pt.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/SpotMessageView.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/tagging_select_auth.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Tagging.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/TagModel.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/SpotMessageTagIconPoolKrpano.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/SpotMessageTextPoolKrpano.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/profiling/profiling.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/config/development.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test/profiling/results/analysis.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/configuration_pt.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/configuration_en.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/SnapshotStorage.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/dist/configuration_pt.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/dist/configuration.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/Gruntfile.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/index.html",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/testData.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/actions.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/krpano_xml/uistates/init.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/interface.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/krpano_skin/layout.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/krpano_xml/buttons.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/krpano_xml/layout.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/interface.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/buttons.xml",
+		"/Users/emanuelbsilva/Documents/Projects/brasil_tagging.sublime-project",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src/configuration.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_skins/light/layout.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/.gitignore",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/Gruntfile.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/main.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/index.html",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/css/style.css",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/css/krpanostuff.css",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/interface-small.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/js/URI.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/js/main.js",
+		"/Users/emanuelbsilva/Desktop/mapped_tweets.txt",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/js/tweets.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/bower.json",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/.ftppass",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/index.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/src/tour.xml",
+		"/Users/emanuelbsilva/Downloads/index.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/cannes-tweet-wall/components/lunr.js/lunr.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag2-server/dataStorage.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/node_modules/mongoose/node_modules/mongodb/Readme.md",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/sendEmail.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/logging.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/StartDev.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag2-server/app.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/site-panotag/site01/src/documents/documentation.html.md",
+		"/Users/emanuelbsilva/Documents/Digisfera/site-panotag/site01/src/documents/download.html.md",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/dist/2.1.0/release/panotag/configuration.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/dist/2.1.0/release/panotag/panotag.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/layout.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_skins/light/img/tagger.png",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/tagging_input_data.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/share.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/counter.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/counterTeams.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/guest_wall.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/snapshot_select_area.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/HelperKrpano.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/uistates/tagging_failed.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Sharing.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/panotag21.log",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/test/app/krfullscreen.css",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/UIStateTransitions.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/SingleCardWithTimeout.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/clusters.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml/main.xml",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Config.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Snapshotting.js",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src/View.coffee",
+		"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js/Share.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/test",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/projects/brasil_tagging/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/krpano_xml",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/js",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/client/src/js",
+			"*.txt",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/test",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server/src",
+			"/Users/emanuelbsilva/Documents/Digisfera/panotag21/server",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css",
+			"admin",
+			",",
+			"adminToken",
+			"conso",
+			"success",
+			"deletedTag",
+			"fbToken",
+			"validationQuery",
+			"!req?.",
+			"results.",
+			"tag",
+			"TAG",
+			"tag",
+			"nginx",
+			"email",
+			"l",
+			"asd",
+			"winston",
+			"25",
+			"console",
+			"console.log",
+			"adminToken",
+			"adminToke",
+			"return true if user is an admin",
+			"map",
+			"users",
+			"admin",
+			"users",
+			"admin",
+			"err",
+			"map",
+			"req",
+			"auths",
+			"authing",
+			"fb",
+			" userId",
+			"userId",
+			"cluster",
+			"text",
+			"tagAddedByAnother",
+			"8080",
+			"text_input",
+			"pt_counterteam1_back",
+			"buildIndexFilePt",
+			"configuration_pt",
+			"length",
+			",",
+			"tagvisibility",
+			"pt_s_help_text",
+			"tagvisibility",
+			"tagVisibility",
+			"tagvisibility",
+			"help",
+			"pt_s_counterteam_back_large",
+			"pt_button_text_withicon",
+			"\"add tag\"",
+			"abdulkarim",
+			":",
+			": ",
+			"\n:",
+			"author:",
+			"  :",
+			"will_hum",
+			"AndrewGrill",
+			"jacobbeckley",
+			"robin",
+			"url",
+			"PorscheNichols",
+			"  {",
+			"@morally marketed",
+			"@rorysutherland",
+			"JoasiaSzymanska",
+			"@luckthelady",
+			"theodelaney",
+			"capi_rl",
+			"PorscheNichols",
+			"JasonApaliski",
+			"theode",
+			"amir",
+			"innovation is",
+			"meedja",
+			"CocaColaCo",
+			"joew",
+			"@joewattsphoto",
+			".add",
+			"},\n",
+			"testUser",
+			"users",
+			"user",
+			"User",
+			"user",
+			"m",
+			" \n",
+			"db.",
+			"db = ",
+			"mongoose.connection.db",
+			"mongoose",
+			".find",
+			"db.find",
+			"publicTagProperties",
+			"mongoo",
+			"ObjectID",
+			"png",
+			"select_coor",
+			"select_c",
+			"<script type=\"text/javascript\" src=\"http://connect.facebook.net/en_US/all.js\"></script>",
+			"pt_s_message_",
+			"pt_s_message",
+			"pt_s_message_error",
+			"message",
+			"tagging_failed",
+			"auth_selected",
+			"pos",
+			"||",
+			"and",
+			"&&",
+			"guest_wall",
+			"mv",
+			"pt_counterteam1_back",
+			"pt_s_counter_back",
+			"pt_s_counter_back_portrait",
+			"pt_s_footer_bar",
+			"pt_footer_bar",
+			"pt_s_share_thumb",
+			"thumb",
+			"pt_s_share_thumb_",
+			"pt_s_share_thumb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"snapshot_select_area",
+			"expect(err?).to.be.not.ok",
+			"options.server.port",
+			"options.server.url",
+			"twitterAccessTokenSecret",
+			"twitterAccessToken",
+			"taggedUserTwitterID",
+			"customer2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web.js",
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 250.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"panotag21/client/src/js/TagModel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"brasis",
+				"/Users/emanuelbsilva/Documents/Projects/brasil_tagging.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
